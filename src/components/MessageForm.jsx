@@ -47,7 +47,7 @@ const MessageForm = (props) => {
                 onChange={handleUpload}
             />
             <button type="submit" className="send-button"> 
-                <SendOutlined className="send-icon" /> 
+                    <SendOutlined className="send-icon" /> 
             </button>
         </form>
     </div>
